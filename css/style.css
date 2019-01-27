@@ -1466,7 +1466,7 @@ textarea.form-control-sm {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(134, 195, 58, 0.9);
+  background: #fd7e14;
   transition: .2s ease;
   -webkit-transform: scale(0.8);
           transform: scale(0.8);
