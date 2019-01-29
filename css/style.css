@@ -726,7 +726,9 @@ a h4:hover, a h5:hover {
 .bg-gray-white {
   background-image: linear-gradient(to right, #f5f6fa 45%, #fff 0%);
 }
-
+.bg-cyan{
+  background:skyblue;
+}
 .bg-white-gray {
   background-image: linear-gradient(to right, #fff 45%, #f5f6fa 0%);
 }
@@ -734,7 +736,14 @@ a h4:hover, a h5:hover {
 .bg-white2-gray {
   background-image: linear-gradient(to right, #fff 70%, #f5f6fa 0%);
 }
-
+.bg-darkslategray{
+  background: darkslategray;
+}
+.bg-burlywood{
+  background: #deb887;
+}
+.bg-aliceblue{
+  background: #f0f8ff;}
 .text-primary {
   color: #fd7e14 !important;
 }
